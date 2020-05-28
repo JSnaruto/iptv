@@ -159,11 +159,17 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1,First Movies
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1,Fox Movies Premium
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1,Fox Movies Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
 #EXTINF:-1,HBO
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
 #EXTINF:-1,HBO 2
-http://185.180.12.90:8080/HBO2/index.m3u8?token=test
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
@@ -190,7 +196,7 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
 #EXTINF:-1,Kix
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1,FX
 http://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
